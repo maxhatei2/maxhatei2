@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @maxhatei2
+- 👀 I’m interested in Linux
+- 🌱 I’m currently learning Scratch / HTML - CSS
