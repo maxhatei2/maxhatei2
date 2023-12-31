@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @maxhatei2
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+** Hello! **
+I am maxhatei2, one of the non-popular developers out there
+I am maintaining MFAST System, an *system* based on Python.
